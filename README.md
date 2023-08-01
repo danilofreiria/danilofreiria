@@ -29,14 +29,14 @@ Sou graduando em Análise e desenvolvimento de sistemas pela UNIP, além de alun
 <h3 align="left">Tecnologias que mais uso:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,express,nodejs,postgres,github,git," />
+    <img src="https://skillicons.dev/icons?i=js,express,nodejs,postgres,github,git," />
   </a>
 </p>
 
 <h3 align="left">Tecnologias que tenho algum conhecimento:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,php,html,css,react" />
+    <img src="https://skillicons.dev/icons?i=ts,py,php,html,css,react" />
   </a>
 </p>
 
