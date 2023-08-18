@@ -1,62 +1,30 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7070e3&height=120&section=header"/>
-</div>
+# 💫 About Me:
+Software development enthusiast with a passionate focus on backend, my journey began in the tech universe in 2023, and since then, I have been traversing a path of discoveries and continuous learning.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=f9c701&size=35&center=true&vCenter=true&width=1000&lines=Seja+muito+bem-vindo!">
-</p>
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danilofreiria&show_icons=true&theme=outrun" alt="Lucas Carvalho's GitHub stats" />
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/danilofreiria) 
 
-  <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilofreiria&layout=compact&hide_border=true&title_color=f9c701&text_color=7070e3&bg_color=141439" />
-</div>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat-square&logo=insomnia&logoColor=5849BE) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat-square&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=danilofreiria&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=danilofreiria&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilofreiria&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danilofreiria&bg_color=0e0e27&color=f5c402&line=f5c402&point=f5c402&area=true&hide_border=true">
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=danilofreiria&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="left">Sobre:</h3>
-<p style="font-family: 'Courier New', monospace; font-size: 16px;">A tecnologia sempre foi um hobbie, mas me preparei nos últimos anos para poder buscar esse objetivo profissional... E aqui estamos nós!</p>
-<p style="font-family: 'Courier New', monospace; font-size: 16px;">Iniciei 2023 mergulhando no universo de desenvolvimento. Com foco em Backend, tenho aprofundado meus estudos em Javascript, Node Js, SQL, Typecript e APIs - além de noções de Frontend (HTML, CSS e Bootstrap), frutos da minha infinita curiosidade pregressa. Sou graduando em Análise e desenvolvimento de sistemas pela UNIP, além de aluno da Cubos Academy.</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="left">Contatos:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/danilofreiria/" target="blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-  </a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=danilofreiria&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
 
-<h3 align="left">Tecnologias que mais uso:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-    <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
-    <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  </a>
-</p>
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<h3 align="left">Tecnologias que tenho algum conhecimento:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-    <img src="https://img.icons8.com/color/48/000000/python.png"/>
-    <img src="https://img.icons8.com/color/48/000000/php.png"/>
-    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-  </a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=danilofreiria&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <br>
-  <p align="center" style="font-family: 'Courier New', monospace; font-size: 18px;"><b>Visitantes:</b></p>
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{danilofreiria}/count.svg"></p>
-  <br>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7070e3&height=120&section=footer"/>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
