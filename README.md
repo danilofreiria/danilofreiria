@@ -24,14 +24,4 @@ Software development enthusiast with a passionate focus on backend, my journey b
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=danilofreiria&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=danilofreiria&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilofreiria&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=danilofreiria&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
-
-
-
